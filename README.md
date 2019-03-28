@@ -101,6 +101,11 @@
 
 ![material](./images/material-example.png)
 
+
+サポート、コミュニケーション用チャット
+
+![material](./images/spectrum_chat.png)
+
 ## 募集概要
 
 - PC環境
