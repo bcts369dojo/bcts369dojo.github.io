@@ -106,9 +106,16 @@
 - 以降、随時追加します
 
 
-教材の多くは、このようなフォーマット（Codelabs）になります。
+教材は、次のような2パターンです。
 
-![material](./images/material-example.png)
+パターン１
+
+![material1](./images/material-example.png)
+
+
+パターン２
+
+![material2](./images/material-example2.png)
 
 
 サポート、コミュニケーション用チャット
